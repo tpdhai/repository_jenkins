@@ -26,7 +26,7 @@ public class CoreApp01 {
 		
 		System.out.println("START");
 		System.out.println("ville = "+getVille());
-		System.out.println("END");
+		System.out.println("END"); 
 
 	}
 
